@@ -6,9 +6,9 @@ Archive of accepted LeetCode and Programmers solutions, synced by [AlgorithmHub]
 
 | Platform | Solved |
 | --- | ---: |
-| LeetCode | 4 |
-| 프로그래머스 | 3 |
-| Total | 7 |
+| LeetCode | 0 |
+| 프로그래머스 | 1 |
+| Total | 1 |
 
 ## Platforms
 
