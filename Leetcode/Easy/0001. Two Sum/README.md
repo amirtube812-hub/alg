@@ -61,8 +61,8 @@
 | Status | Accepted |
 | Language | Kotlin |
 | Runtime | 2 ms (99.53%) |
-| Memory | 48.1 MB (39.40%) |
-| Submission ID | 1980559289 |
+| Memory | 46.3 MB (88.37%) |
+| Submission ID | 1980560156 |
 
 ---
 
