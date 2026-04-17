@@ -8,7 +8,7 @@
 - Level: Lv. 0
 - Problem ID: 181952
 - Category: 코딩테스트 연습 > 코딩 기초 트레이닝
-- Problem Link: [https://programmers.co.kr/](https://programmers.co.kr/)
+- Problem Link: [https://school.programmers.co.kr/learn/courses/30/lessons/181952](https://school.programmers.co.kr/learn/courses/30/lessons/181952)
 
 ## Problem
 
@@ -42,7 +42,7 @@
 | Language | Kotlin |
 | Runtime | 185.42 ms |
 | Memory | 47 MB |
-| Submitted At | 2026년 04월 17일 12:27:47 |
+| Submitted At | 2026년 04월 17일 12:31:05 |
 
 ### Result Summary
 
