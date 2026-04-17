@@ -42,7 +42,7 @@ b = 5
 | Language | Kotlin |
 | Runtime | 168.09 ms |
 | Memory | 50.1 MB |
-| Submitted At | 2026년 04월 17일 12:51:58 |
+| Submitted At | 2026년 04월 17일 13:40:34 |
 
 ### Result Summary
 
