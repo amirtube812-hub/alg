@@ -55,9 +55,9 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 | --- | --- |
 | Status | Accepted |
 | Language | Kotlin |
-| Runtime | 7 ms (93.71%) |
-| Memory | 44.5 MB (94.99%) |
-| Submission ID | 1980602010 |
+| Runtime | 9 ms (81.04%) |
+| Memory | 46 MB (60.85%) |
+| Submission ID | 1980572534 |
 
 ---
 
