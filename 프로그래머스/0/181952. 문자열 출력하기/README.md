@@ -42,7 +42,7 @@
 | Language | Kotlin |
 | Runtime | 185.42 ms |
 | Memory | 47 MB |
-| Submitted At | 2026년 04월 17일 12:31:05 |
+| Submitted At | 2026년 04월 17일 12:39:00 |
 
 ### Result Summary
 
