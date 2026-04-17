@@ -1,24 +1,16 @@
-# [Lv. 0] 문자열 출력하기 - 181952
+# 문자열 출력하기
 
-[문제 링크](https://programmers.co.kr/)
+> Lv. 0 | 181952 | 프로그래머스
 
-### 성능 요약
+## Problem Overview
 
-메모리: 47 MB, 시간: 185.42 ms
+- Platform: 프로그래머스
+- Level: Lv. 0
+- Problem ID: 181952
+- Category: 코딩테스트 연습 > 코딩 기초 트레이닝
+- Problem Link: [https://programmers.co.kr/](https://programmers.co.kr/)
 
-### 구분
-
-코딩테스트 연습 > 코딩 기초 트레이닝
-
-### 채점 결과
-
-정확성: 100.0<br/>합계: 100.0 / 100.0
-
-### 제출 일자
-
-2026년 04월 17일 12:05:48
-
-### 문제 설명
+## Problem
 
 <p>문자열 <code>str</code>이 주어질 때, <code>str</code>을 출력하는 코드를 작성해 보세요.</p>
 
@@ -42,4 +34,21 @@
 <div class="highlight"><pre class="codehilite"><code>HelloWorld!
 </code></pre></div>
 
-> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+## Submission
+
+| Item | Value |
+| --- | --- |
+| Status | Accepted |
+| Language | Kotlin |
+| Runtime | 185.42 ms |
+| Memory | 47 MB |
+| Submitted At | 2026년 04월 17일 12:15:14 |
+
+### Result Summary
+
+- 정확성: 100.0
+- 합계: 100.0 / 100.0
+
+---
+
+_Synced with AlgorithmHub_
